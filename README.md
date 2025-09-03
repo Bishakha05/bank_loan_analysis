@@ -3,7 +3,7 @@
 
 <p>
 In this project we learn about the Key Performace Indictors(KPIs) requirement :
-<ul> <u> Total Loan Applications: </u> We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications. </ul>
+<ul> <h2> Total Loan Applications: </h2> We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications. </ul>
 <ul> <h2> Total Funded Amount: </h2> Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount metric. </ul>
 <ul> <h2> Total Amount Received:  </h2>  Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) Total Amount Receive.</ul>
 <ul> <h2> Average Interest Rate: </h2>   Calculating the average interest rate across all loans which will provide insights into our lending portfolio's overall cost.
