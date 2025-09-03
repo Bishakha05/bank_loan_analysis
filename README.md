@@ -21,9 +21,9 @@ In this project we learn about the Key Performace Indictors(KPIs) requirement :
 
 <ul> <h2> Loan Term Analysis (Donut Chart):  </h2>   To allow the client to understand the distribution of loans across various term lengths.</ul>
 
-<ul> <h2>Employee Length Analysis (Bar Chart):  </h2>   How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.</ul>
+<ul> <h2>Employee Length Analysis (Bar Chart):  </h2>   How lending matrix are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.</ul>
 
-<ul> <h2> Loan Purpose Breakdown (Bar Chart):   </h2>   Will provide a visual breakdown of loan metrics based on the stated purposes
+<ul> <h2> Loan Purpose Breakdown (Bar Chart):   </h2>   Will provide a visual breakdown of loan matrix based on the stated purposes
 of loans, aiding in the understanding of the primary reasons borrowers seek financing</ul>
 
 <ul> <h2> Home Ownership Analysis (Tree/ Heat Map):   </h2>    For a hierarchical view of how home ownership impacts loan applications and disbursements.</ul>
